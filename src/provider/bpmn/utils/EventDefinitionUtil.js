@@ -161,3 +161,7 @@ export function getCompensateActivity(element) {
 
   return compensateEventDefinition && compensateEventDefinition.get('activityRef');
 }
+
+export function getConditionalEventDefinition(element) {
+  return getEventDefinition(element, 'bpmn:ConditionalEventDefinition');
+}
