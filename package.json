@@ -71,7 +71,7 @@
     "axe-core": "^4.10.3",
     "babel-loader": "^10.0.0",
     "babel-plugin-istanbul": "^7.0.0",
-    "bpmn-js": "^18.9.1",
+    "bpmn-js": "bpmn-io/bpmn-js#conditional-event",
     "bpmn-js-create-append-anything": "^1.0.1",
     "bpmn-moddle": "^9.0.4",
     "camunda-bpmn-js-behaviors": "^1.12.0",
